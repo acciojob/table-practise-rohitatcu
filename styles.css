@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+#tab1{
+	background-color:yellow
+}
+
+th{
+	border:1px solid black
+}
+
+
+tr{
+	border:1px solid black
+}
+
+td{
+	border:1px solid black
+}
